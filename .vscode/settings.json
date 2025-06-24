@@ -1,0 +1,7 @@
+{
+    "dotnet.defaultSolution": "TranKhaiMinhKhoi.sln",
+    "[csharp]": { "editor.codeActionsOnSave": [ "source.organizeImports" ] },
+      "files.exclude": { // excludes compilation result
+    "**/bin/": true,
+  },
+}
